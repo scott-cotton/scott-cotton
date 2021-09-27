@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- I'm working on [improving pointer-analysis for Go](https://github.com/go-air/pal).  👯 collaboration welcome.
 - I created 
   - [Gini](https://github.com/go-air/gini)
   - [Reach](https://github.com/go-air/reach)
   - [Zikichombo](https://github.com/zikichombo)
 - ⚡ Fun fact: I prototyped and proposed optional static types to Python in 1999 personally to Guido Van Rossum in Reston, he very clearly refused.  Today, Python has very much the same thing.
+- I am working at [signadot](https://signadot.com)
 
 <!--
 **scott-cotton/scott-cotton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
